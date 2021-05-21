@@ -13,6 +13,9 @@
 <h2 align="center">Você pode me encontrar em: 🌐</h2>
 
 <p align="center">
+  <a href="mailto:yyan1207@gmail.com">
+    <img align="" alt="Yan Rodrigues | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
   
   <a href="https://www.linkedin.com/in/yan-rds/">
     <img align="" alt="Yan Rodrigues | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -23,9 +26,7 @@
   </a>
 </p>
 
-<a href="mailto:yyan1207@gmail.com">
-    <img align="" alt="Yan Rodrigues | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
+
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
