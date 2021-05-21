@@ -15,7 +15,7 @@
 <p align="center">
   
   <a href="https://www.linkedin.com/in/yan-rds/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Perfil do Linkedin Yan Rodrigues" height="30" width="30">
+    <img align="center" alt="Yan Rodrigues | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a>
 
   <a href="https://www.instagram.com/yann.rds/">
@@ -23,6 +23,9 @@
   </a>
 </p>
 
+<a href="mailto:yyan1207@gmail.com">
+    <img align="center" alt="Yan Rodrigues | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
