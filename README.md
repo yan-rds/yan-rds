@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://www.instagram.com/yann.rds/">
-    <img align="left" alt="Yan Rodrigues | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="center" alt="Yan Rodrigues | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a>
 </p>
 
