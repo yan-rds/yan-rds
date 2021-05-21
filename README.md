@@ -26,7 +26,7 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="![Visitor Count](https://profile-counter.glitch.me/{yan-rds}/count.svg)" alt="AnhellO :: Contagem de visitantes" /></p>
+<p align="center">![Visitor Count](https://profile-counter.glitch.me/{yan-rds}/count.svg)" alt="AnhellO :: Contagem de visitantes" </p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
