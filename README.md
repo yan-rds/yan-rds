@@ -3,11 +3,11 @@
 
 
 
-		"- ⚡ Resumo sobre mim:":             "Estudante de programação focando os estudos em desenvolvimento web.",
-		"- 🌱 Atualmente estou estudando:":   "Html5, CSS3, JavaScript",
+		"- ⚡ Resumo sobre mim:":             "Estudante de programação participando do programa Estrelas Fora da Caixa da Zup Innovation.",
+		"- 🌱 Atualmente estou estudando:":   "Java",
 		"- 🤔 Estou buscando ajuda com:":     "Qualquer coisa relacionada com o que eu estou estudando atualmente 😅",
 		"- 🎮 Meus hobbies":                  "Jogos de estratégia, livros de fantasia, assistir animes e séries, futsal",
-		"- 🧐 Curiosidade:":                  "Programando pra pagar o sachê da 🐱Lulu",
+		"- 🧐 Curiosidade:":                  "Programando pra pagar o sachê da 🐱Lulu😺",
 
 
 <h2 align="center">Você pode me encontrar em: 🌐</h2>
