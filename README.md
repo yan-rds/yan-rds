@@ -3,8 +3,8 @@
 
 
 
-		"- ⚡ Resumo sobre mim:":             "Estudante de programação participando do programa Estrelas Fora da Caixa da Zup Innovation.",
-		"- 🌱 Atualmente estou estudando:":   "Java",
+		"- ⚡ Resumo sobre mim:":             "Desenvolvedor Android iniciante mirando ao infinito e além.",
+		"- 🌱 Atualmente estou estudando:":   "Android/ Kotlin",
 		"- 🤔 Estou buscando ajuda com:":     "Qualquer coisa relacionada com o que eu estou estudando atualmente 😅",
 		"- 🎮 Meus hobbies":                  "Jogos de estratégia, livros de fantasia, assistir animes e séries, futsal",
 		"- 🧐 Curiosidade:":                  "Programando pra pagar o sachê da 🐱Lulu😺",
