@@ -7,7 +7,7 @@
 		"- 🌱 Atualmente estou estudando:":   "Android/ Kotlin",
 		"- 🤔 Estou buscando ajuda com:":     "Qualquer coisa relacionada com o que eu estou estudando atualmente 😅",
 		"- 🎮 Meus hobbies":                  "Jogos de estratégia, livros de fantasia, assistir animes e séries, futsal",
-		"- 🧐 Curiosidade:":                  "Programando pra pagar o sachê da 🐱Lulu😺",
+		"- 🧐 Curiosidade:":                  "Programando pra comprar os brinquedos do 🐶Lito🐶",
 
 
 <h2 align="center">Você pode me encontrar em: 🌐</h2>
